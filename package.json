@@ -1,7 +1,7 @@
 {
-  "name": "terbium",
+  "name": "noice",
   "version": "1.43",
-  "description": "A Instance of Terbium WebOS!",
+  "description": "idk",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "keywords": [
-    "proxy"
+    "cool"
   ],
   "engines" : {
     "npm" : ">=8.7.0 <10.2.0",
@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TerbiumOS/webOS.git"
+    "url": "git+https://github.com/irk/idk.git"
   },
   "bugs": {
-    "url": "https://github.com/TerbiumOS/webOS/issues"
+    "url": "https://github.com/idk/webOS/issues"
   },
-  "homepage": "https://github.com/TerbiumOS/webOS#readme"
+  "homepage": "https://github.com/ifk/webOS#readme"
 }
